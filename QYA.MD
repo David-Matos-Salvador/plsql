@@ -1,5 +1,7 @@
+# **PREGUNTAS PL/SQL**
 
-### La diferencia entre Procedimiento y Función es el uso del Return ? 
+## La diferencia entre Procedimiento y Función es el uso del Return ? 
+
 
 
 Afirmativo, y también su uso, uno es para usarlas de forma puntual para SQL (Funciones) y la otra es para rutinas generales (Stored Procedures) Juan Carlos answered at 6:34 pm
