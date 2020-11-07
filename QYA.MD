@@ -33,3 +33,6 @@ Es correcto, los triggers tienen multiples usos: 1. Para guardar informacion his
 
  Para crear triggers, stored procedures, functions no es necesario permisos de DBA; solo basta permisos de CREATE TRIGGER, CREATE PROCEDURES, CREATE FUNCTIONS, etc
  
+### DONDE INDICAS EL SQUEMA 
+
+ Es el usuario que se conecta para obtener datos (es casi lo mismo que el schema). Ejm.: USER1@ORCL, donde USER1 es el esquema (y tambien el usuario) y despues del arroba, el ORCL es la instancia
